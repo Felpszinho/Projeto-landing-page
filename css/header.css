@@ -1,8 +1,5 @@
-header{
+header section{
 
-    display:flex;
- 
-    flex-direction: row;
     justify-content:space-between;
     align-items:center;
  
@@ -13,6 +10,7 @@ header{
      display:flex;
      flex-direction: row;
      list-style: none;
+     align-items:center;
  
  }
  header nav ul li{
