@@ -2,8 +2,27 @@
     padding: 5px 20px;
     border-radius:50px;
 }
-.btn.btn-laranja{
+.btn.btn-curriculo{
 
+    background:rgb(238, 75, 176);
+    color: rgb(44, 195, 241);
+}
+
+
+.btn.btn-contato{
+    background:rgb(238, 75, 176);
+    color: rgb(44, 195, 241);
+}
+.btn.btn-home{
+    
+    background:rgb(238, 75, 176);
+    color: rgb(44, 195, 241);
+}
+.btn.btn-sobre{
+    background:rgb(238, 75, 176);
+    color: rgb(44, 195, 241);
+}
+.btn.btn-portifolio{
     background:rgb(238, 75, 176);
     color: rgb(44, 195, 241);
 }
