@@ -2,6 +2,7 @@
 @import"/html/css/aula4-menuflex/css/Buttons.css";
 @import"/html/css/aula4-menuflex/css/main.css";
 @import"/html/css/aula4-menuflex/css/footer.css";
+@import"/html/css/aula4-menuflex/css/responsive.css";
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital@1&display=swap');
 *{
     margin: 0;
@@ -19,7 +20,7 @@
 
 .container{
     width: 1024px;
-    margin:30px auto;
+    margin:30px  auto;
     display: flex;
     flex-direction: column;
 }
