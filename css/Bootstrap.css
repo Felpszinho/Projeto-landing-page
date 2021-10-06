@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    border:0;
+    font-size:100%;
+    font-weight:300;
+    
+    vertical-align: baseline;
+    text-decoration: none;
+}
+  
+
+    
+
+.container{
+    width: 1024px;
+    margin:30px  auto;
+    display: flex;
+    flex-direction: column;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+body{
+    background-image: url("/html/css/aula4-menuflex/img/bolha-background.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+
+    
